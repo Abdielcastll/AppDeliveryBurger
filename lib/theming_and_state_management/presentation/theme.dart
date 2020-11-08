@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class DeliveryColors {
-  static final purple = Color(0xFF5117AC);
-  static final green = Color(0xFF20D0C4);
+  static final purple = Color(0xFF410c61);
+  static final green = Color(0xFF357e46);
   static final dark = Color(0xff03091E);
   static final grey = Color(0xff212738);
   static final lightGrey = Color(0xffBBBBBB);
